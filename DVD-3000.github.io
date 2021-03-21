@@ -1,4 +1,4 @@
-# DVD-3000.github.io
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +11,7 @@
   <h1>Desporto como forma de inclusão social</h1>
 <p>Ola estou aqui para falar sobre o desporto como forma de inclusão social 
 </p>  <p>Bom nas ultimas décadas,esta noção conheceu uma certa projeção partindo das ciências biomédicas e ambientais(a gestão de riscos naturais)
-)</p>  <p>A vulnerabilidade corresponde,</p>
+</p>  <p>A vulnerabilidade corresponde,</p>
 
 
 </body>
